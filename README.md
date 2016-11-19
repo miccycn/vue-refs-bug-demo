@@ -7,7 +7,7 @@
 
 ## Reproduction Link
 
-
+https://github.com/miccycn/vue-refs-bug-demo
 
 ## Steps to reproduce
 
